@@ -5,3 +5,5 @@ A normal selenium app to download picture from the web https://www.fifa.com/fifa
 + 2: Run the POM file
 + 3: Run the GetSrcPic.java
 + Wait for the download
++ Testung
++ 
